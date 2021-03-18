@@ -1,0 +1,3 @@
+/home/ydm/Codes/RealsenseTest/build/CMakeFiles/rebuild_cache.dir
+/home/ydm/Codes/RealsenseTest/build/CMakeFiles/run.dir
+/home/ydm/Codes/RealsenseTest/build/CMakeFiles/edit_cache.dir

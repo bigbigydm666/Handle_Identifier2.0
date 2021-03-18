@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ydm/Codes/RealsenseTest/build",
+  "command": "/usr/bin/c++   -I/home/librealsense-2.40.0/include -isystem /usr/local/opencv4/include/opencv4  -g   -std=c++11 -std=gnu++11 -o CMakeFiles/run.dir/main.cpp.o -c /home/ydm/Codes/RealsenseTest/main.cpp",
+  "file": "/home/ydm/Codes/RealsenseTest/main.cpp"
+}
+]
